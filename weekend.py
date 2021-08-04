@@ -4,7 +4,7 @@ ok = True
 while ok:
     week = list()
     for c in range(0, 7):
-        day = int(input(f'Day { c + 1 }˚:'))
+        day = int(input(f'Day { c + 1 }˚: '))
         week += [day]
     
     numerator = sum(week)
