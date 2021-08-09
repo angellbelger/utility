@@ -1,4 +1,4 @@
-print('\033[34mHello, world.\033[m')
+print('\n\033[34mHello, world.\033[m\n')
 
 ok = True
 while ok:
